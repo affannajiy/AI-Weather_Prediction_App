@@ -86,14 +86,6 @@ Run Jupyter Notebook:
 jupyter notebook weather_prediction.ipynb
 ```
 
-## Results Summary
-
-| Target      | Mean Squared Error | R² Score | Interpretation             |
-| ----------- | ------------------ | -------- | -------------------------- |
-| Temperature | 2.34 °C²           | 0.89     | Excellent predictive power |
-| Humidity    | 45.21 %²           | 0.76     | Good predictive power      |
-| Pressure    | 12.5 hPa²          | 0.82     | Very good predictive power |
-
 ## 📚 Term Definitions
 
 - MSE: Measures average squared difference between predicted and actual values
@@ -106,6 +98,6 @@ Educational use only - Not for commercial purposes
 
 ## 🙏 Acknowledgements
 
-- Zenodo for the dataset
+- Huber, F. (2021, May 18). Weather prediction dataset. Retrieved from Zenodo: https://zenodo.org/records/4770937t
 
 # Thank you for reading!
