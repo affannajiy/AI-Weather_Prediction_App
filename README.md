@@ -98,6 +98,6 @@ Educational use only - Not for commercial purposes
 
 ## 🙏 Acknowledgements
 
-- Huber, F. (2021, May 18). Weather prediction dataset. Retrieved from Zenodo: https://zenodo.org/records/4770937t
+- Huber, F. (2021, May 18). Weather prediction dataset. Retrieved from Zenodo: https://zenodo.org/records/4770937
 
 # Thank you for reading!
